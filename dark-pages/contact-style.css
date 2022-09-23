@@ -34,6 +34,11 @@ body{
 	color: black;
 	border-radius: 25px;
 }
+.nav-area .active{
+	color: #4262eb;
+	background-color: ghostwhite;
+	border-radius: 25px;
+}
 .logo img{
 	width: 200px;
 	float: left;
@@ -65,6 +70,6 @@ body{
 }
 .contact-us a:hover{
 	background: #ffffff;
-	color: #2C83D0;
+	color: #4262eb;
 	border-radius: 25px;
 }

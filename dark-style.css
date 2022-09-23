@@ -11,7 +11,7 @@
 }
 body{
 	background-size: cover;
-	background: #FCFCFC;
+	background: #0F0F0F;
 	position: relative;
 }
 .nav-area{
@@ -24,19 +24,19 @@ body{
 	display: inline-block;
 }
 .nav-area li a{
-	color: black;
+	color: #ffffff;
 	text-decoration: none;
 	padding: 5px 15px;
 	font-size: 18px;
 }
 .nav-area li a:hover{
-	background: black;
-	color: white;
+	background: #ffffff;
+	color: black;
 	border-radius: 25px;
 }
 .nav-area .active{
-	color: #02C59E;
-	background-color: #0F0F0F;
+	color: #4262eb;
+	background-color: ghostwhite;
 	border-radius: 25px;
 }
 .logo img{
@@ -52,11 +52,11 @@ body{
 }
 .coming-soon h1{
 	text-align: center;
-	color: black;
+	color: white;
 	font-size: 75px;
 }
 .coming-soon p{
 	text-align: center;
-	color: black;
+	color: white;
 	font-size: 35px;
 }
