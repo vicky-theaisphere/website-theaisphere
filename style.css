@@ -11,7 +11,7 @@
 }
 body{
 	background-size: cover;
-	background: #FCFCFC;
+	background: ghostwhite;
 	position: relative;
 }
 .nav-area{
@@ -31,7 +31,7 @@ body{
 }
 .nav-area li a:hover{
 	background: black;
-	color: white;
+	color: ghostwhite;
 	border-radius: 25px;
 }
 .nav-area .active{
