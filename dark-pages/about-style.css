@@ -39,6 +39,11 @@ body{
 	background-color: ghostwhite;
 	border-radius: 25px;
 }
+.nav-area .active:hover{
+	color: #4262eb;
+	background-color: ghostwhite;
+	border-radius: 25px;
+}
 .logo img{
 	width: 200px;
 	float: left;
