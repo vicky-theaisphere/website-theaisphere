@@ -11,7 +11,7 @@
 }
 body{
 	background-size: cover;
-	background: black;
+	background: #020314;
 	position: relative;
 }
 .nav-area{
@@ -24,24 +24,24 @@ body{
 	display: inline-block;
 }
 .nav-area li a{
-	color: ghostwhite;
+	color: #e9eaec;
 	text-decoration: none;
 	padding: 5px 15px;
 	font-size: 18px;
 }
 .nav-area li a:hover{
-	background: ghostwhite;
-	color: black;
+	color: #04c99a;
+	background-color: #04c99a00;
 	border-radius: 25px;
 }
 .nav-area .active{
-	color: #4262eb;
-	background-color: ghostwhite;
+	color: #04c99a;
+	background-color: #04c99a00;
 	border-radius: 25px;
 }
 .nav-area .active:hover{
-	color: #4262eb;
-	background-color: ghostwhite;
+	color: #04c99a;
+	background-color: #04c99a00;
 	border-radius: 25px;
 }
 .logo img{
@@ -57,11 +57,17 @@ body{
 }
 .about-us h1{
 	text-align: center;
-	color: ghostwhite;
+	color: #e9eaec;
 	font-size: 50px;
 }
 .about-us p{
 	text-align: center;
-	color: ghostwhite;
+	color: #e9eaec;
 	font-size: 25px;
+}
+.sun-icon {
+	color: #bfab25; /* Set the color to #020314 */
+}
+.sun-icon:hover {
+	color: #decc54
 }

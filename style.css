@@ -11,7 +11,7 @@
 }
 body{
 	background-size: cover;
-	background: ghostwhite;
+	background: #e9eaec;
 	position: relative;
 }
 .nav-area{
@@ -24,24 +24,24 @@ body{
 	display: inline-block;
 }
 .nav-area li a{
-	color: black;
+	color: #020314;
 	text-decoration: none;
 	padding: 5px 15px;
 	font-size: 18px;
 }
 .nav-area li a:hover{
-	background: black;
-	color: ghostwhite;
+	background: #e9eaec00;
+	color: #4262eb;
 	border-radius: 25px;
 }
 .nav-area .active{
-	color: #02C59E;
-	background-color: #0F0F0F;
+	color: #4262eb;
+	background-color: #4262eb00;
 	border-radius: 25px;
 }
 .nav-area .active:hover{
-	color: #02C59E;
-	background-color: #0F0F0F;
+	color: #4262eb;
+	background-color: #4262eb00;
 	border-radius: 25px;
 }
 .logo img{
@@ -57,11 +57,17 @@ body{
 }
 .coming-soon h1{
 	text-align: center;
-	color: black;
+	color: #020314;
 	font-size: 75px;
 }
 .coming-soon p{
 	text-align: center;
-	color: black;
+	color: #020314;
 	font-size: 35px;
+}
+.moon-icon {
+	color: #080d0a; /* Set the color to #020314 */
+}
+.moon-icon:hover {
+	color: #545763; /* Set the color to #020314 */
 }
